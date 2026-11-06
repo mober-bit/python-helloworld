@@ -2,7 +2,7 @@ name:python-helloworld
 on:
 
   push:
-     branches: [ origin ]
+     branches: [ maiin ]
      tags:
 	-"latest"
 
