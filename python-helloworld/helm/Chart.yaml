@@ -1,10 +1,13 @@
-apiVersion: v1
-name: nginx_deployment
-description: Install Nginx_deployment
-Keywords:
-- nginx
+apiVersion: v2
+name: nginx-deployment
+description: Install Nginx deployment
+type: application
 version: 1.0.0
+appVersion: "1.0.0"
+
+keywords:
+  - nginx
+
 maintainers:
-- name:arthur
-  email:moberjon@gmail.com
-  
+  - name: arthur
+    email: moberjon@gmail.com
