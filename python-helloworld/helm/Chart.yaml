@@ -1,0 +1,10 @@
+apiVersion: v1
+name: nginx_deployment
+description: Install Nginx_deployment
+Keywords:
+- nginx
+version: 1.0.0
+maintainers:
+- name:arthur
+  email:moberjon@gmail.com
+  
