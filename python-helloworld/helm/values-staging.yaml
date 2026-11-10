@@ -14,7 +14,7 @@ replicaCount: 1
 
 resources:
   requests:
-    cpu: 50nm
+    cpu: 50m
     memory: 128Mi
 
 configmap:
